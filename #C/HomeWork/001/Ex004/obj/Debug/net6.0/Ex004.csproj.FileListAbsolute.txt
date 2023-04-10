@@ -1,0 +1,15 @@
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/obj/Debug/net6.0/Ex004.csproj.AssemblyReference.cache
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/obj/Debug/net6.0/Ex004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/obj/Debug/net6.0/Ex004.AssemblyInfoInputs.cache
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/obj/Debug/net6.0/Ex004.AssemblyInfo.cs
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/obj/Debug/net6.0/Ex004.csproj.CoreCompileInputs.cache
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/bin/Debug/net6.0/Ex004
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/bin/Debug/net6.0/Ex004.deps.json
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/bin/Debug/net6.0/Ex004.runtimeconfig.json
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/bin/Debug/net6.0/Ex004.dll
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/bin/Debug/net6.0/Ex004.pdb
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/obj/Debug/net6.0/Ex004.dll
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/obj/Debug/net6.0/refint/Ex004.dll
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/obj/Debug/net6.0/Ex004.pdb
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/obj/Debug/net6.0/Ex004.genruntimeconfig.cache
+/Users/kotlyaginaks/Desktop/Gb.ru/#C/HomeWork/001/Ex004/obj/Debug/net6.0/ref/Ex004.dll
