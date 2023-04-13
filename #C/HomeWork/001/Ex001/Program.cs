@@ -10,9 +10,8 @@ int a, b;
 a = int.Parse(Console.ReadLine()!);
 b = int.Parse(Console.ReadLine()!);
 
-int max = a;
+int max =a;
 
-if (a > max) max = a;
 if (b > max) max = b;
 
 int min = a;
