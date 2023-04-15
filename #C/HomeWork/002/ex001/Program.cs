@@ -1,19 +1,33 @@
 ﻿// Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
 
+Console.WriteLine("Введите трехзначное число: ");
+int a;
+a = int.Parse(Console.ReadLine()!);
 
-int GetRandonDigit (int minDigit = 100, int maxDigit = 999)
+
+if (a >= 100 & a<= 999)
 {
-    int num = new Random().Next(minDigit, maxDigit + 1);
-    return num;
+    {
+    a = a / 10;
+    a = a % 10;
+    }
+    Console.WriteLine($"Вторая цифра заданного числа: {a}");
 }
 
-int DeletSecondDigit(int num)
+else
 {
-    num = num / 10;
-    num = num % 10;
-    return num;
+    
+        if (a <= -100 & a >= -999)
+        {{
+        a = a / 10;
+        a = a % 10;
+        a = a * -1;
+        }
+        Console.WriteLine($"Вторая цифра заданного числа: {a}");
+        }
+       
+       else
+       {
+        Console.WriteLine($"Ошибка, число введено не корректно");
+       } 
 }
-
-int num = GetRandonDigit();
-Console.WriteLine(num);
-Console.WriteLine(DeletSecondDigit(num));
