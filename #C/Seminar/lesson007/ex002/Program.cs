@@ -10,7 +10,7 @@ bool FigureCanExist(int[] sides)
         {
             sumOtherSides += (j == i) ? 0 : sides [j];
         }
-        if (sumOtherSides < sides [i]) return false;
+        if (sumOtherSides <= sides [i]) return false;
     }
     return true;
 }
