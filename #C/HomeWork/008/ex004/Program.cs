@@ -15,7 +15,7 @@ Console.WriteLine();
 
 int[,,] array3D = new int[x, y, z];
 CreateArray(array3D);
-WriteArray(array3D);
+PrintArray(array3D);
 
 int InputNumbers(string input)
 {
@@ -24,7 +24,7 @@ int InputNumbers(string input)
   return output;
 }
 
-void WriteArray (int[,,] array3D)
+void PrintArray (int[,,] array3D)
 {
   for (int i = 0; i < array3D.GetLength(0); i++)
   {
